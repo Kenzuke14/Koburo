@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+.container__connect{
+    padding: 5rem;
+}
+.sosials__mobile{
+    display: none;
+}
+@media screen and (max-width: 768px) {
+    #particle{
+        height: 100%;
+    }
+    .container__connect{
+        padding: 2rem 0;
+    }
+    .sosials__mobile{
+        display: flex;
+        margin: auto;
+    }
+}
