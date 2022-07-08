@@ -1,14 +1,14 @@
 {
-    "CONTRACT_ADDRESS": "0xa20C9604F8E64f812A5eB7B727c328F670389378",
-    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa20C9604F8E64f812A5eB7B727c328F670389378",
+    "CONTRACT_ADDRESS": "0xa20c9604f8e64f812a5eb7b727c328f670389378",
+    "SCAN_LINK": "https://etherscan.io/address/0xa20c9604f8e64f812a5eb7b727c328f670389378",
     "NETWORK": {
-        "NAME": "Rinkeby",
+        "NAME": "Ethereum",
         "SYMBOL": "ETH",
-        "ID": 4
+        "ID": 1
     },
     "NFT_NAME": "Koburo Society",
     "SYMBOL": "KSC",
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "Opensea",
-    "MARKETPLACE_LINK": "https://opensea.io/collection/angels-project-1"
+    "MARKETPLACE_LINK": "https://opensea.io/collection/"
 }
